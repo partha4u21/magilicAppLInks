@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.magilic",
+    "sha256_cert_fingerprints":
+    ["C9:EA:24:04:D5:ED:3F:4C:89:22:34:C1:6E:C6:0F:8E:52:91:41:D5:6C:A6:46:BF:9C:7F:9D:8C:47:D2:A0:DF"]
+  }
+}]
